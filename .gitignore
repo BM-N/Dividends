@@ -1,3 +1,5 @@
 hello.py
 uv.lock
-requirements.txt
+pyproject.toml
+.python-version
+.venv
