@@ -10,7 +10,8 @@ Dividends Tracker is a Python project designed to help investors keep track of t
 
 ### 📌 Usage
 
-The jupyter notebook contains the necessary information for using the dividend tracker. If you want a python script with the code
+- The jupyter notebook contains the necessary information for using the dividend tracker.
+- If you want a python script with the code run: `jupyter nbconvert --to script get_dividends.ipynb`.
 
 ### 📊 Why This Project? 
 
